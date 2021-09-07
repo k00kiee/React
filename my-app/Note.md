@@ -14,4 +14,5 @@ Borad.render()
 Borad.renderSquare(i)  
 Square.render()  
 
+## ブランチのテスト
 
